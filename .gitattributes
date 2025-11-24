@@ -1,0 +1,2 @@
+servers/**/*.jar filter=lfs diff=lfs merge=lfs -text
+servers/**/*.zip filter=lfs diff=lfs merge=lfs -text

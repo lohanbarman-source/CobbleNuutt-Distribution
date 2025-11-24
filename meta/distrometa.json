@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/dev%20fivem/CobbleNuutt-Distribution/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://nuutt-cobblemon.com/api/rss",
+    "discord": {
+      "clientId": "",
+      "smallImageText": "CobbleNuutt",
+      "smallImageKey": "cobbenuutt-logo"
+    }
+  }
+}
